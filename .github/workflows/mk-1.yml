@@ -9,5 +9,5 @@ jobs:
       - name: echo filepath
         run: pwd
       - name: echo file content
-        run: cat ./murali.txt
+        run: cat ../murali.txt
       
