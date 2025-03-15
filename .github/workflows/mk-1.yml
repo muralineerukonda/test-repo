@@ -6,5 +6,7 @@ jobs:
     steps:
       - name: echo hello
         run: echo "Hello"
+      - name: echo hello
+        run: pwd
       - name: print file content
         run: cat murali.txt
