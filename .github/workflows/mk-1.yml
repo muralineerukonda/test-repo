@@ -5,9 +5,6 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: echo hello
-        run: echo "Hello"
-      - name: echo filepath
-        run: pwd
-      - name: echo file content
-        run: cat ../murali.txt
+        run: echo "Hello World!"
+      
       
