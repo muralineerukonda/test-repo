@@ -8,5 +8,4 @@ jobs:
         run: echo "Hello"
       - name: echo filepath
         run: pwd
-      - name: print file content
-        run: cat murali.txt
+      
